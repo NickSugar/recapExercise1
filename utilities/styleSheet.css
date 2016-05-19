@@ -1,0 +1,8 @@
+body{
+	background: #aaaaaa;
+}
+
+#div{
+	float: right;
+	clear: all;
+}
